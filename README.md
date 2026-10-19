@@ -24,7 +24,7 @@ Currently exploring how AI systems evolve beyond narrow use cases: how they reas
 
 ## Projects
 
-### Karukon — Telegram Sentinel
+### Karuton — Telegram Sentinel
 
 A real-time AI-powered crypto-scam detection system built for the Tamil Nadu Cyber Crime Wing, awarded **1st Runner-Up at Tamil Nadu Police Hackathon 2024**.
 
